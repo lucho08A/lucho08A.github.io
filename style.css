@@ -1,19 +1,4 @@
-/* ============================================================
-   ESTILOS — Página para tu novia
-   ============================================================
-   IMPORTANTE: Este CSS define el ESTADO INICIAL OCULTO de los
-   elementos que GSAP va a animar. GSAP solo anima HACIA
-   visible (opacity: 1), nunca intenta ocultar. Si GSAP falla,
-   el timeout de 1.5s en script.js activa la clase 'sin-animacion'
-   que fuerza que todo aparezca con opacity: 1 !important.
-   ============================================================ */
 
-/* ================================================
-     1. VARIABLES DE COLOR Y TIPOGRAFÍA (EDITA AQUÍ)
-     ================================================
-     Cambia estos valores si quieres otra paleta.
-     Todo el sitio usa estas variables, así que un
-     cambio aquí se refleja en toda la página. */
      :root{
       --crema:        #FDF6F0; /* fondo principal */
       --crema-osc:    #F7E9E0; /* fondo secciones alternas */
